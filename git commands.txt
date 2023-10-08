@@ -1,0 +1,3 @@
+C:\Kamalakar\Learning\practice>git remote add origin https://github.com/vvhitsolutions/Iac-ARM.git
+
+C:\Kamalakar\Learning\practice>git push -u origin --all
